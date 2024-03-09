@@ -225,3 +225,4 @@ void survey()
     printf(strcmp(answer,answer2[i])==0 ? "You can contact me by Email(arashgkuni@gmail.com)...\n" : ""); if (strcmp(answer,answer2[i])==0){break;};
     }
 }
+//Produced by ArashGk
